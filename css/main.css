@@ -1,1 +1,16 @@
+h1 {
+    font-size: 72 ;
+    cursor: pointer;
+}
 
+h2{
+    font-family: Helvetica ;
+}
+
+.bg-red {
+    background-color: red;
+}
+
+#rating {
+    font-size: 36px;
+}
